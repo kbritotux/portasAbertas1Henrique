@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="58" y1="25" x2="650" y2="436" gradientUnits="userSpaceOnUse"><stop stop-color="#e9e5ff"/><stop offset="1" stop-color="#c4d5f3"/></linearGradient>
+    <linearGradient id="screen" x1="358" y1="80" x2="625" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#243b75"/><stop offset=".55" stop-color="#5d88c4"/><stop offset="1" stop-color="#edae73"/></linearGradient>
+  </defs>
+  <rect width="720" height="450" rx="28" fill="url(#bg)"/>
+  <circle cx="564" cy="104" r="116" fill="#fff" fill-opacity=".35"/>
+  <rect x="336" y="64" width="320" height="214" rx="18" fill="#263752"/>
+  <rect x="349" y="77" width="294" height="188" rx="10" fill="url(#screen)"/>
+  <circle cx="566" cy="122" r="33" fill="#f3ca83"/>
+  <path d="M350 241c57-54 97-74 131-56 35 19 58 6 83-26 24-30 49-25 79 3v103H350v-24Z" fill="#273f67"/>
+  <path d="m440 212 22-42 24 42h-46Zm49 32 34-71 40 71h-74Z" fill="#9cc6dc" fill-opacity=".82"/>
+  <path d="M442 279v22m106-22v22" stroke="#263752" stroke-width="12" stroke-linecap="round"/>
+  <path d="M405 301h179" stroke="#263752" stroke-width="17" stroke-linecap="round"/>
+  <path d="M175 339c16-48 52-73 105-73 54 0 90 25 105 73l16 111H159l16-111Z" fill="#7b68b8"/>
+  <path d="M218 158c7-42 31-66 62-66s55 24 62 66l-7 61c-4 32-26 55-55 55s-51-23-55-55l-7-61Z" fill="#efbd98"/>
+  <path d="M211 164c4-59 29-93 69-93s66 34 69 93l-29-16-12-24-36 25-39 7-22 8Z" fill="#373350"/>
+  <path d="M205 164c8-17 22-26 43-26h64c21 0 35 9 43 26l-8 45c-4 17-14 28-31 30l-7-31h-58l-7 31c-17-2-27-13-31-30l-8-45Z" fill="#243454" stroke="#dbebff" stroke-width="7"/>
+  <path d="M274 185h24" stroke="#9ce5eb" stroke-width="6" stroke-linecap="round"/>
+  <path d="M176 361 99 323m285 38 83-37" stroke="#efbd98" stroke-width="20" stroke-linecap="round"/>
+  <path d="M82 310c19-11 41-8 53 8l20 28-35 17-48-24 10-29Zm402 0c-20-11-42-8-54 8l-20 28 35 17 48-24-9-29Z" fill="#28344e"/>
+  <path d="M501 106h20m-10-10v20M125 120h20m-10-10v20" stroke="#fff" stroke-opacity=".82" stroke-width="6" stroke-linecap="round"/>
+</svg>

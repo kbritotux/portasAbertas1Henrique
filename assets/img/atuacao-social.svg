@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="43" y1="17" x2="681" y2="435" gradientUnits="userSpaceOnUse"><stop stop-color="#e5eaff"/><stop offset="1" stop-color="#c6daf2"/></linearGradient>
+    <linearGradient id="bubble" x1="191" y1="80" x2="528" y2="249" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#ebf8ff"/></linearGradient>
+  </defs>
+  <rect width="720" height="450" rx="28" fill="url(#bg)"/>
+  <circle cx="354" cy="191" r="154" fill="#fff" fill-opacity=".25"/>
+  <path d="M107 110c0-22 18-40 40-40h426c22 0 40 18 40 40v125c0 22-18 40-40 40H390l-52 49c-11 10-28 2-28-13v-36H147c-22 0-40-18-40-40V110Z" fill="url(#bubble)" stroke="#a6bfdc" stroke-width="6"/>
+  <circle cx="261" cy="157" r="48" fill="#eeb790"/>
+  <path d="M211 159c4-43 22-65 51-65s47 22 51 65l-19-12-8-17-24 18-30 5-21 6Z" fill="#6a527b"/>
+  <path d="M186 241c10-42 36-64 76-64s66 22 76 64" fill="#6c91d3"/>
+  <path d="M408 159c4-43 22-65 51-65s47 22 51 65l-19-12-8-17-24 18-30 5-21 6Z" fill="#334967"/>
+  <circle cx="459" cy="157" r="48" fill="#b97b5c"/>
+  <path d="M383 241c10-42 36-64 76-64s66 22 76 64" fill="#62b5a5"/>
+  <path d="M240 155c7-6 16-6 23 0m-7 17h13m169-17c7-6 16-6 23 0m-7 17h13" stroke="#52647b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M347 145h27" stroke="#8ea9c3" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 15"/>
+  <circle cx="569" cy="327" r="39" fill="#f2c568"/>
+  <path d="M559 327h20m-10-10v20" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="152" cy="335" r="27" fill="#79c8c8"/>
+  <path d="M143 335h18m-9-9v18" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M226 345c39 31 80 46 125 46 48 0 92-17 133-49" stroke="#829fca" stroke-width="5" stroke-linecap="round" stroke-dasharray="3 14"/>
+  <path d="M347 365v34m-19-17h38" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M354 64V43m-10 10h20m-200 250v-19m-9 10h18m420-19v-19m-9 10h18" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>

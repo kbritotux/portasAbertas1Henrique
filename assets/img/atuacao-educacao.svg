@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="45" y1="24" x2="671" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#def6f1"/><stop offset="1" stop-color="#bbd8f0"/></linearGradient>
+    <linearGradient id="globe" x1="422" y1="88" x2="571" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#b9f0e1"/><stop offset="1" stop-color="#55afc7"/></linearGradient>
+  </defs>
+  <rect width="720" height="450" rx="28" fill="url(#bg)"/>
+  <circle cx="507" cy="161" r="100" fill="#fff" fill-opacity=".4"/>
+  <circle cx="501" cy="161" r="79" fill="url(#globe)" stroke="#fff" stroke-width="7"/>
+  <path d="M427 156c27-20 49-24 67-8 15 14 29 15 51 0l27-16m-136 47 36-10 18 20 36-5 17 25m-82-113 7 27-14 18 13 20m44-67-12 24 8 23 29 12" stroke="#3d91a8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M102 325h245v20H102z" fill="#e6af70"/>
+  <path d="M124 345h16v86h-16zm185 0h16v86h-16z" fill="#9b7151"/>
+  <path d="M217 125c7-37 29-58 57-58s50 21 57 58l-6 55c-4 29-24 49-51 49s-47-20-51-49l-6-55Z" fill="#e9b78f"/>
+  <path d="M210 132c4-53 26-82 64-82s60 29 64 82l-27-15-10-21-33 22-37 7-21 8Z" fill="#3d634f"/>
+  <path d="M204 132c7-15 20-23 39-23h62c19 0 32 8 39 23l-7 40c-4 15-13 24-29 26l-6-28h-56l-6 28c-16-2-25-11-29-26l-7-40Z" fill="#263b52" stroke="#f2ffff" stroke-width="6"/>
+  <path d="M270 152h22" stroke="#82d8df" stroke-width="5" stroke-linecap="round"/>
+  <path d="M203 271c13-35 39-52 78-52s65 17 78 52l26 79H177l26-79Z" fill="#397db3"/>
+  <path d="m196 281-58 47m228-47 58 47" stroke="#e9b78f" stroke-width="17" stroke-linecap="round"/>
+  <path d="m129 331 37 9-8 15-34-7m284-17-37 9 8 15 34-7" fill="#e9b78f"/>
+  <rect x="452" y="280" width="121" height="13" rx="6" fill="#627d9b"/>
+  <path d="M458 296h12v105h-12zm88 0h12v105h-12z" fill="#7e9db6"/>
+  <path d="M469 280v-25m24 25v-34m24 34v-25m24 25v-34" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M428 71h20m-10-10v20M603 230h18m-9-9v18" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>
